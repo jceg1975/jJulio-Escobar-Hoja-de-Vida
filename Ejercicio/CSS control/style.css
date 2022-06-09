@@ -1,0 +1,14 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+div{
+    height: 200px;
+    width: 400px;
+    background-color: rgb(38, 1, 73);
+}
+h1{
+    text-align: right;
+    text-decoration:underline;
+}
